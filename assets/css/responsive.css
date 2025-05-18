@@ -618,7 +618,8 @@
     }
     .d2c_footer_wrapper img {
         margin-bottom: 30px;
-        max-height: 36px;
+        /* max-height: 36px; */
+        max-height: 70px;
     }
     .d2c_contact_details {
         padding-left: 10px;
@@ -792,7 +793,8 @@
     }
     .d2c_footer_wrapper img {
         margin-bottom: 30px;
-        max-height: 40px;
+        /* max-height: 40px; */
+        max-height: 70px;
     }
     .d2c_form_wrapper {
         padding-right: 0px;
@@ -815,12 +817,3 @@
 }
 
 
-
-/* 
-    Template Name: {{ReactProx- React Developer Portfolio Website Templates}}
-    Template URL: {{https://designtocodes.com/product/reactprox-react-developer-portfolio-website-templates}}
-    Description: {{Purchase your ReactProx- React Developer Portfolio and get seamless integration for react projects plus top-notch portfolio as well.}}
-    Author: DesignToCodes
-    Author URL: https://www.designtocodes.com
-    Text Domain: {{ React Prox }}
- */

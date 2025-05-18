@@ -468,7 +468,7 @@ h1 span {
     padding-left: 20px;
 }
 .d2c_customer_info p span {
-    font-weight: 600;
+    font-weight: normal;
 }
 .d2c_testimonial_content {
     color: var(--color_two);
@@ -957,12 +957,26 @@ h1 span {
 }
 /* Scroll Button End */
 
+/* Custom */
 
-/* 
-    Template Name: {{ReactProx- React Developer Portfolio Website Templates}}
-    Template URL: {{https://designtocodes.com/product/reactprox-react-developer-portfolio-website-templates}}
-    Description: {{Purchase your ReactProx- React Developer Portfolio and get seamless integration for react projects plus top-notch portfolio as well.}}
-    Author: DesignToCodes
-    Author URL: https://www.designtocodes.com
-    Text Domain: {{ React Prox }}
- */
+.p-color {
+    color: var(--primary_color);
+}
+.d-color {
+    color: var(--default_color);
+}
+
+.skill-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.skill-img-container {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.skill-img {
+    width: 100%;
+    object-fit: cover;
+}
